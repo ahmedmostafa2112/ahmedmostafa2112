@@ -1,4 +1,4 @@
-  Hi <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.gif" width="30"/>! I'm Ahmed Mostafa
+<h2 align="center">Hi 👋!  I'm Ahmed Mostafa</h2>
 
 ###
 
@@ -18,8 +18,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/ahmedmostafa2112/ahmedmostafa2112/output/snake.svg" alt="Snake animation" />
 
