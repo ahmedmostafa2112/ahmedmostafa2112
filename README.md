@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋!  I'm Ahmed Mostafa</h2>
+  Hi <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.gif" width="30"/>! I'm Ahmed Mostafa
 
 ###
 
