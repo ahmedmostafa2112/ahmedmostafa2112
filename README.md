@@ -1,5 +1,7 @@
 <h2 align="center">
-  Hi <img src="https://media.giphy.com/media/xUOwGchGmCj7ZK2oCY/giphy.gif" width="30"/>! I'm Ahmed Mostafa
+<h2 align="center">
+  Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ahmed Mostafa
+</h2>
 </h2>
 
 ###
