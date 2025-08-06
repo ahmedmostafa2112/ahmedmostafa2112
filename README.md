@@ -22,14 +22,12 @@
 
 ### 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## 🛠️ Tech Stack
 
+**Languages:** Python, Java, C#  
+**ML & DL Frameworks:** Scikit-learn, TensorFlow, Keras, PyTorch  
+**Visualization:** Power BI, Tableau, Matplotlib, Seaborn, Plotly  
+**Other Tools:** Pandas, NumPy, OpenCV, Git, Flask, Google Colab
 ---
 
 ### 📊 GitHub Stats
