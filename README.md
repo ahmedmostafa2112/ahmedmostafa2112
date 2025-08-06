@@ -1,4 +1,6 @@
-<h2 align="center">Hi 👋!  I'm Ahmed Mostafa</h2>
+<h2 align="center">
+  Hi <img src="https://media.giphy.com/media/xUOwGchGmCj7ZK2oCY/giphy.gif" width="30"/>! I'm Ahmed Mostafa
+</h2>
 
 ###
 
