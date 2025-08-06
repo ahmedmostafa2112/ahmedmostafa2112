@@ -23,7 +23,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ahmedmostafa2112/ahmedmostafa2112/output/snake.svg" alt="Snake animation" />
+<img src=![GitHub Snake](https://raw.githubusercontent.com/ahmedmostafa2112/ahmedmostafa2112/output/github-contribution-grid-snake.svg) alt="Snake animation" />
 
 ###
 
