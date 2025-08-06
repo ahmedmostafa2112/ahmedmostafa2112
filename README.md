@@ -1,35 +1,18 @@
-<h1 align="center">Welcome to Ahmed Mostafa's profile! <span class="wave">👋</span></h1>
+# 💫 About Me:
+I'm an AI/Machine Learning Engineer with hands-on experience in building end-to-end real-world projects across Machine Learning, Deep Learning, and Large Language Models (LLMs).<br>Skilled in data analysis, model evaluation, and visualization, with a strong foundation in databases and model deployment.<br>I've built impactful projects including a deep learning-based diagnostic system, predictive models, and chatbots powered by RAG (Retrieval-Augmented Generation) techniques
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Always+Learn;Always+Code;Always+Improve" alt="Typing SVG" />
-</p>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-mostafa-372aa6190) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Eng.Ahmed.Mostafa2112@gmail.com) 
 
-- 🧑‍💻 I'm a Machine Learning Engineer & Software Developer  
-- 💬 Ask me about Python, Machine Learning, Deep Learning, Data Visualization, Java, and Web Development  
-- ☕ Fun Fact: I'm a coffee enthusiast and my perfect day starts and ends with a cup of coffee  
-
----
-
-### Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AhmedMostafa-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmed-mostafa-372aa6190/)
-[![GitHub](https://img.shields.io/badge/GitHub-ahmedmostafa2112-black?style=for-the-badge&logo=github)](https://github.com/ahmedmostafa2112)
-[![Email](https://img.shields.io/badge/Email-ahmedmost2f221122001@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ahmedmost2f221122001@gmail.com)
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ahmedmostafa2112&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ahmedmostafa2112&theme=jolly&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmostafa2112&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=ahmedmostafa2112&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🛠 Tech Stack
-
-## 🛠️ Tech Stack
-
-**Languages:** Python, Java, C#  
-**ML & DL Frameworks:** Scikit-learn, TensorFlow, Keras, PyTorch  
-**Visualization:** Power BI, Tableau, Matplotlib, Seaborn, Plotly  
-**Other Tools:** Pandas, NumPy, OpenCV, Git, Flask, Google Colab
----
-
-### 📊 GitHub Stats
-
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmostafa2112&layout=compact&langs_count=8&theme=dracula)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
