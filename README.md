@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=435&lines=Always+Learning.;Better+than+yesterday%2C+worse+than+tomorrow." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1500&color=00FFD1&center=true&vCenter=true&width=600&lines=Always+Learning.;Better+than+yesterday,+worse+than+tomorrow." alt="Typing SVG" />
 </p>
 
 ###
