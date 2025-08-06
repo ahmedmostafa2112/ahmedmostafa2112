@@ -4,6 +4,10 @@
 </h2>
 </h2>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=435&lines=Always+Learning.;Better+than+yesterday%2C+worse+than+tomorrow." alt="Typing SVG" />
+</p>
+
 ###
 
 <img align="right" height="150" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e470igj4vwsm9vuccasebgxgzjirkechefxd6hq697a&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
@@ -20,10 +24,6 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="linkedin logo"  />
 </div>
-
-###
-
-<img src=![GitHub Snake](https://raw.githubusercontent.com/ahmedmostafa2112/ahmedmostafa2112/output/github-contribution-grid-snake.svg) alt="Snake animation" />
 
 ###
 
